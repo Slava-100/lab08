@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsuggestion_clientd.a  CMakeFiles/suggestion_client.dir/sources/Client.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsuggestion_clientd.a
